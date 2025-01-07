@@ -1,0 +1,27 @@
+GUI vs CLI
+Graphical User Interface (GUI) - graphical buttons/icons.
+Command Line Interface (CLI) - text-based commands.
+
+Make a folder (Make a directory)
+mkdir 'Name of folder'
+
+Remove/Delete a folder
+rmdir 'name of folder'
+
+Print Working directory
+pwd
+
+List commands - Lists all files and folders in the current directry 
+ls 
+
+Change Directory
+cd 'directory/folder name'
+
+Go back one directory
+cd ..
+
+Create a filename
+touch 'filename.extension'
+
+Remove a file 
+rm 'filename.extension'
