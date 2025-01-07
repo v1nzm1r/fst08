@@ -4,3 +4,51 @@ git config user.name (confirm username)
 git config --global user.email "Email" (setup email for Git)
 git config user.email (confirm email)
 git init (Convert normal folder to repository)
+
+U - Untracked
+A - Added
+M - Modified
+
+- 3 Stage Architecture
+1. Working Area
+2. Staging Area
+3. Commit Stage
+
+- Check the status of all the files and folders within project folders
+git status
+
+- Add all the files that have been modified
+git add .
+git add "filename.ext"
+
+- Create a commit 
+git commit -m "Description."
+
+- Check the history of the changes.
+git log
+git log --oneline
+
+Branching and Merging
+
+- List all the available branches
+git branch -a
+
+- Create a new branch
+git branch [branch-name]
+
+- Switch to a different branch
+git switch [branch-name] (Master or feature)
+git checkout [branch-name]
+git commit -m "Create notes for branching."
+git branch -d feature
+
+- Merge a branch
+git merge [branch-name]
+
+- Delete a branch
+git branch -d [branch-name]
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/v1nzm1r/fst08.git
+git branch -M main
+git push -u origin main
