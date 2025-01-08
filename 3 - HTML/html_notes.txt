@@ -4,3 +4,6 @@ JavaScript - Response/Functionality
 
 FrontEnd - Visuals
 BackEnd - Data
+
+Tags: building blocks of HTML
+Syntax: <tagname>
