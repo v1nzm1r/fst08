@@ -66,3 +66,10 @@ git push -u origin main
 
 - Push code from local repository to the remote repository
 git push
+
+HTML - Structure
+CSS - Style
+JavaScript - Response/Functionality
+
+FrontEnd - Visuals
+BackEnd - Data

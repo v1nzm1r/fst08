@@ -1,0 +1,6 @@
+HTML - Structure
+CSS - Style
+JavaScript - Response/Functionality
+
+FrontEnd - Visuals
+BackEnd - Data
