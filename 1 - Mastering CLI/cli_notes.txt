@@ -26,5 +26,5 @@ touch 'filename.extension'
 Remove a file 
 rm 'filename.extension'
 
-Day 2
+
 
