@@ -7,3 +7,34 @@ BackEnd - Data
 
 Tags: building blocks of HTML
 Syntax: <tagname>
+
+head tag - contains metadata information
+meta tag - contains information
+charset attributes - character set - characters used by the html file
+
+UTF-8 - Characters from A to Z and symbols, ? ! < they will be converted into machine code, undestandable by the machine language
+
+viewport - visible portion of the website.
+
+CTRL + / = Create a comment
+! + Tab or Enter = Create a 
+
+Head Tags
+h1 - 
+
+View > Word Wrap (Alt+Z)
+
+block level element - takes up the whole line
+inline level element - width depends on the content
+
+example: div tag
+
+Horizontal Rule - Allows us to divide sections of the website.
+
+Target = can redirect the user to a new tab upon clicking the link.
+
+Save image = allows to download image
+
+Copy image = copy to clipboard and paste it to somewhere
+
+Copy link address = allows you to copy the link of the address hosted from the server.
